@@ -1,5 +1,5 @@
 
-# SAG-RRG Replanning Implementation
+# SAG-RRG Patching Implementation
 
 This repository contains the implementation of the SAG-RRG replanning algorithm for my Master's thesis project. The algorithm is based on the paper ***Semantic Abstraction-Guided Motion Planning for scLTL Missions in Unknown Environments*** by Kush Grover, Fernando S. Barbosa, Jana Tumova and Jan Kretinsky. 
 
